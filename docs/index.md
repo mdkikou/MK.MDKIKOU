@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-![Image title](https://cdn.jsdelivr.net/gh/mdkikou/IMG/DSC01461.jpg){ align=left }
+![Image title](https://cdn.jsdelivr.net/gh/mdkikou/IMG/DSC01461.jpg){width=300}
 
 
 ## Commands
