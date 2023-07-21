@@ -37,6 +37,13 @@ theme:
 repo_url: https://github.com/squidfunk/mkdocs-material
 repo_name: mkdocs-material
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
+
 extra:
   social:
     - icon: material/github

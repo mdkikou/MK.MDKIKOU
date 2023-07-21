@@ -2,6 +2,9 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+![Image title](https://cdn.jsdelivr.net/gh/mdkikou/IMG/DSC01461.jpg){ align=left }
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
