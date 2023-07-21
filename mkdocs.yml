@@ -1,1 +1,45 @@
-site_name: My Docs
+site_name: MDKIKOU'S Docs
+
+nav:
+  - Home:
+    - index.md 
+    - FirstPage_name: source_test/page1.md
+    - SecendPage_name: source_test/page2.md
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: mkdocs-material
+
+extra:
+  social:
+    - icon: material/github
+      link: https://github.com/mdkikou
+
+copyright: Copyright &copy; 2023 @MDKIKOU
