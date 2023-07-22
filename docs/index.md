@@ -1,7 +1,7 @@
 # Welcome to MDKIKOU'S Blog
 
-IMG TEST Left size 300
-![image.png](img/test1.png){width=300}{ align=left }
+## IMG TEST Left size 300
+![name1](img/test1.png){width=300}{ loading=lazy }
 
-IMG TEST right size 500
-![image.png](img/test1.png){width=500}{ align=right }
+## IMG TEST right size 500
+![name2](img/test1.png){width=500}{ loading=lazy }
