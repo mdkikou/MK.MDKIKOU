@@ -34,7 +34,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-repo_url: https://github.com/mdkikou/mdkikou.github.io
+repo_url: https://github.com/mdkikou/MK.MDKIKOU
 repo_name: my-git
 
 markdown_extensions:
