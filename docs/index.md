@@ -1,7 +1,7 @@
 # Welcome to MDKIKOU'S Blog
 
-## IMG1 TEST size 300
-![name1](img/test1.png){width=300}
+## way of Ty
+<img src="https://mdkikou-blog-image.oss-cn-hongkong.aliyuncs.com/typora/DSC01411.jpg" alt="DSC01411" style="zoom:50%;" />
 
-## IMG2 TEST size 500
-![name2](img/test2.jpg){width=500}
+## Way of picgo
+![name2](https://mdkikou-bolg-picgo.oss-cn-hongkong.aliyuncs.com/picgo/DSC02250-1.jpg){width=500}
