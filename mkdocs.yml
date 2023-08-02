@@ -2,9 +2,12 @@ site_name: MDKIKOU'S Docs
 
 nav:
   - Home:
-    - index.md 
-    - FirstPage_name: source_test/page1.md
-    - SecendPage_name: source_test/page2.md
+    - index.md
+    - Link.md
+  - Plan of Update: 
+    - Plan/plan.md
+    #- FirstPage_name: source_test/page1.md
+    #- SecendPage_name: source_test/page2.md
 
 theme:
   name: material

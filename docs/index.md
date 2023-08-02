@@ -1,7 +1,12 @@
-# Welcome to MDKIKOU'S Blog
+# 欢迎！
 
-## way of Ty
-<img src="https://mdkikou-blog-image.oss-cn-hongkong.aliyuncs.com/typora/DSC01411.jpg" alt="DSC01411" style="zoom:50%;" />
+## 写在前面
 
-## Way of picgo
-![name2](https://mdkikou-bolg-picgo.oss-cn-hongkong.aliyuncs.com/picgo/DSC02250-1.jpg){width=500}
+这里是MDKIKOU的个人Blog。
+
+开始这个博客的主要目的其实是方便记录自己的学习笔记，因为目前市面上各种笔记软件总有各种不能让我满意的地方，于是有了开始尝试自建Blog记录。
+
+我会将自己的各种学习笔记记录慢慢同步上来，方便自己在各个设备上访问复习的同时、希望能借此督促自己保持学习，每项学习阶段性完成的时候如果能有一份自己制作的学习笔记，想必也是一件极有成就感的事情~
+
+笔记主要是为辅助自己学习，如果恰巧对你有所帮助，那太好不过了。
+
