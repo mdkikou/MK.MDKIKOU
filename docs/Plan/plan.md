@@ -2,7 +2,7 @@
 
 1. 光学设计知识整理&更新
     1. 光学入门知识
-        1. 计划更新于飞书知识库：[光学设计知识知识库]([‍⁣﻿‍⁡﻿‬⁣‌⁢‍‌﻿⁢‍﻿⁣⁢﻿⁤⁤⁣‍⁤‍⁤‌⁡‌‬⁣⁢﻿﻿‌‌‬⁣⁢‌目录页 - 飞书云文档 (feishu.cn)](https://nccgtbx7co.feishu.cn/wiki/EUkvw2tL0iXMulkCQl4cPWC2nLh))
+        1. 计划更新于飞书知识库：[光学设计知识知识库](https://rqw906yyez0.feishu.cn/wiki/space/7262947534015004673?fromScene=spaceOverview&disposable_login_token=eyJ1c2VyX2lkIjoiNzI1MjkzOTU1MDEwNjk5MjY0MSIsImRldmljZV9sb2dpbl9pZCI6IjcyNjI5NDUyOTc4MDkxNDU4ODQiLCJ0aW1lc3RhbXAiOjE2OTExMTA1MzQsInVuaXQiOiJldV9uYyIsInB3ZF9sZXNzX2xvZ2luX2F1dGgiOiIxIiwidmVyc2lvbiI6InYzIiwidGVuYW50X2JyYW5kIjoiZmVpc2h1IiwicGtnX2JyYW5kIjoi6aOe5LmmIn0=.290b36f5685307838da32f4988e34fb26c8be43282aa5c3c91495c3f56528a13)
     2. 投影镜头设计方法整理：
         1. 3LCD补偿模拟
     3. 其它知识库内容完善补充
@@ -11,7 +11,6 @@
     6. Lighttools学习整理
     7. CODE V
         1. 自定义误差函数（abr）
-
 2. 计算机相关知识学习笔记
     1. 专题-AI
     2. 专题-MR
