@@ -6,6 +6,9 @@ nav:
     - Link.md
   - Plan of Update: 
     - Plan/plan.md
+  - Japan_Lan:
+    - Japan_Lan/Plan.md
+    - Japan_Lan/Lesson6.md
     #- FirstPage_name: source_test/page1.md
     #- SecendPage_name: source_test/page2.md
 
@@ -43,7 +46,8 @@ repo_name: my-git
 markdown_extensions:
   - attr_list
   - md_in_html
-
+  - pymdownx.tasklist:
+      custom_checkbox: true
 extra:
   social:
     - icon: material/github
