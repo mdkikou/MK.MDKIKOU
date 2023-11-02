@@ -4,8 +4,8 @@ nav:
   - Home:
     - index.md
     - Plan of Update: 
-      Plan/plan.md
-      Computer/CS61A/Plan.md
+      - Plan/plan.md
+      - Computer/CS61A/Plan.md
     - Link.md
   - Computer Science Study:
     - Computer/CS61A/Plan.md
