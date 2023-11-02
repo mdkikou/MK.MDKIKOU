@@ -5,10 +5,10 @@ nav:
     - index.md
     - Link.md
   - Plan of Update: 
-    - Plan\plan.md
+    - Plan/plan.md
   - Computer Science Study:
-    - Computer\CS61A\Plan.md
-    - Computer\CS61A\L01.md
+    - Computer/CS61A/Plan.md
+    - Computer/CS61A/L01.md
 
   #- FirstPage_name: source_test/page1.md
   #- SecendPage_name: source_test/page2.md
