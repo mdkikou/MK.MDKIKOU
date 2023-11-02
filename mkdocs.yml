@@ -2,13 +2,14 @@ site_name: MDKIKOU'S Docs
 
 nav:
   - Home:
-    - index.md
-    - Link.md
-  - Plan of Update: 
-    - Plan/plan.md
+    - Welcome Page : index.md
+    - Plan of Update: 
+      - Plan List: Plan\plan.md
+      - CS61A Plan: Computer\CS61A\Plan.md
+    - Links Page : Link.md
   - Computer Science Study:
-    - Computer/CS61A/Plan.md
-    - Computer/CS61A/L01.md
+    - Plan : Computer\CS61A\Plan.md
+    - Detail : Computer\CS61A\L01.md
 
   #- FirstPage_name: source_test/page1.md
   #- SecendPage_name: source_test/page2.md
