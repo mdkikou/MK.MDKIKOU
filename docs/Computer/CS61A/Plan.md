@@ -1,12 +1,1 @@
-| Project | Text      | Date | Weekday | Start Time | End Time | During | Description |
-| :------ | --------- | ---- | ------- | ---------- | -------- | ------ | ----------- |
-| CS61A   | Lecture 1 |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-|         |           |      |         |            |          |        |             |
-
+[学习计划](https://nccgtbx7co.feishu.cn/sheets/YucisXCnmh5N6etbUMyc9raEnCd?from=from_copylink)
