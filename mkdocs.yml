@@ -3,10 +3,9 @@ site_name: MDKIKOU'S Docs
 nav:
   - Home:
     - index.md
-    - Plan of Update: 
-      - Plan/plan.md
-      - Computer/CS61A/Plan.md
     - Link.md
+  - Plan of Update: 
+    - Plan/plan.md
   - Computer Science Study:
     - Computer/CS61A/Plan.md
     - Computer/CS61A/L01.md
