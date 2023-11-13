@@ -1,5 +1,14 @@
 site_name: MDKIKOU'S Docs
 
+login:
+  enabled: true
+
+plugins:
+  - search :
+  - encryptcontent :
+      password_file : 'passwords.yml'
+      #global_password: #'your_password'
+
 nav:
   - Home:
     - index.md
@@ -12,10 +21,6 @@ nav:
 
   #- FirstPage_name: source_test/page1.md
   #- SecendPage_name: source_test/page2.md
-
-#plugins:
-#    - encryptcontent:
-#        global_password: 'test'
 
 theme:
   name: material
