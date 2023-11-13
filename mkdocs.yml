@@ -13,6 +13,10 @@ nav:
   #- FirstPage_name: source_test/page1.md
   #- SecendPage_name: source_test/page2.md
 
+plugins:
+    - encryptcontent:
+        global_password: 'test'
+
 theme:
   name: material
 
