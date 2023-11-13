@@ -1,3 +1,9 @@
+mkdocs serve
+
+git add .  
+git commit -m $'ADDing intial documentation files'
+git push origin main  
+
 git add .  
 git commit -m $'ADDing intial documentation files'
 git push origin main  
@@ -5,7 +11,10 @@ git push origin main
 报错：error: failed to push some refs to 'github.com:mdkikou/MK.MDKIKOU.git'
 原因：库不一致
 解决方式：同步库 指令git pull
-
 https://wenku.csdn.net/answer/48a6phcgy3
+
+git push origin main  
+https://blog.csdn.net/gongdamrgao/article/details/115032436
+https://blog.csdn.net/vv___/article/details/105744407
 
 pip install mkdocs-material
