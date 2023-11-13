@@ -3,10 +3,10 @@ site_name: MDKIKOU'S Docs
 login:
   enabled: true
 
-plugins:
-  - search :
-  - encryptcontent :
-      password_file : 'passwords.yml'
+#plugins:
+  #- search :
+  #- encryptcontent :
+      #password_file : 'passwords.yml'
       #global_password: #'your_password'
 
 nav:
