@@ -1,12 +1,9 @@
 site_name: MDKIKOU'S Docs
 
-login:
-  enabled: true
-
-#plugins:
+plugins:
   #- search :
-  #- encryptcontent :
-      #password_file : 'passwords.yml'
+  - encryptcontent :
+      password_file : 'passwords.yml'
       #global_password: #'your_password'
 
 nav:
