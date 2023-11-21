@@ -1,17 +1,15 @@
-site_name: MDKIKOU'S Docs
+site_name: MDKIKOU'S E-Docs
 
-plugins:
+#plugins:
   #- search :
-  - encryptcontent :
-      password_file : 'passwords.yml'
+  #- encryptcontent :
+      #password_file : 'passwords.yml'
       #global_password: #'your_password'
 
 nav:
   - Home:
     - index.md
     - Link.md
-  - Plan of Update: 
-    - Plan/plan.md
   - Computer Science Study:
     - Computer/CS61A/Plan.md
     - Computer/CS61A/L01.md
