@@ -9,9 +9,7 @@ site_name: MDKIKOU'S E-Docs
 nav:
   - Home:
     - index.md
-    - Link.md
   - Computer Science Study:
-    - Computer/CS61A/Plan.md
     - Computer/CS61A/L01.md
 
   #- FirstPage_name: source_test/page1.md
