@@ -7,11 +7,22 @@ site_name: MDKIKOU'S E-Docs
       #global_password: #'your_password'
 
 nav:
-  - Home:
+  - 主页:
     - index.md
-  - Computer Science Study:
-    - Computer/CS61A/L01.md
-
+  - 随笔:
+    - Essay/241217.md
+  - 读书笔记:
+    - 读书计划:
+    - Reading/Plan.md
+    - 管理学:
+    - Reading/Management/Xiaomi.md
+  - 学习:
+    - 学习计划:
+    - Learning/Plan.md 
+    - 日语学习:
+    - Learning/Japanese/01.md
+    
+    #基业长青
   #- FirstPage_name: source_test/page1.md
   #- SecendPage_name: source_test/page2.md
 
