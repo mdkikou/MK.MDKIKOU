@@ -12,15 +12,11 @@ nav:
   - 随笔:
     - Essay/241217.md
   - 读书笔记:
-    - 读书计划:
-    - Reading/Plan.md
-    - 管理学:
-    - Reading/Management/Xiaomi.md
+    - 读书计划: Reading/Plan.md
+    - 管理学: Reading/Management/Xiaomi.md
   - 学习:
-    - 学习计划:
-    - Learning/Plan.md 
-    - 日语学习:
-    - Learning/Japanese/01.md
+    - 学习计划: Learning/Plan.md 
+    - 日语学习: Learning/Japanese/01.md
     
     #基业长青
   #- FirstPage_name: source_test/page1.md
