@@ -10,18 +10,18 @@ nav:
   - 主页:
     - index.md
   - 随笔:
-    - Essay/241217.md
-    - Essay/241228.md
+    - l241217: Essay/241217.md
+    - l241228: Essay/241228.md
   - 读书笔记:
-    - Reading/读书计划.md
+    - 读书计划: Reading/读书计划.md
     - 管理学: 
-    - Reading/Management/小米创业思考.md
-    - Reading/Management/基业长青.md
+    - 小米创业思考: Reading/Management/小米创业思考.md
+    - 基业长青: Reading/Management/基业长青.md
   - 学习:
-    - Learning/学习计划.md 
+    - 学习计划: Learning/学习计划.md 
     - 日语学习: 
-    - Learning/Japanese/01.md
-    - Learning/Japanese/02.md
+    - Lesson1: Learning/Japanese/01.md
+    - Lesson1: Learning/Japanese/02.md
      
     #基业长青
   #- FirstPage_name: source_test/page1.md
@@ -67,5 +67,3 @@ extra:
   social:
     - icon: material/github
       link: https://github.com/mdkikou
-
-copyright: Copyright &copy; 2023 @MDKIKOU
