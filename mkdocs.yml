@@ -109,4 +109,27 @@ extra:
     - icon: material/github
       link: https://github.com/mdkikou
 
-copyright: Copyright &copy; 2023 @MDKIKOU
+extra_css:
+  - 'from_oi_wiki/css/extra.css?v=13'
+  - css/status.css
+
+extra_javascript:
+  - 'from_oi_wiki/js/extra.js'
+  # - js/mathjax.js # 支持数学公式，ref : https://squidfunk.github.io/mkdocs-material/reference/mathjax
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js # 支持表格排序
+  # - js/tablesort.js
+  - //busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+      timezone: Asia/Shanghai
+      locale: zh
+  - statistics
+
+# copyright: Copyright &copy; 2023 @MDKIKOU
