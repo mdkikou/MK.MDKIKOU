@@ -24,11 +24,8 @@ nav:
   - ⌛ 总结:
     - 2024年度总结: Summary/2024年度总结.md
   - 🦭 生活:
-    - 做菜记录: Life/做菜记录.md
+    - Life/做菜记录.md
     # - 租房笔记: Life/租房笔记.md
-  
-  #- FirstPage_name: source_test/page1.md
-  #- SecendPage_name: source_test/page2.md
 
 theme:
   name: material
