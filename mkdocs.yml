@@ -7,19 +7,25 @@ site_name: MDKIKOU'S 学习记录
       #global_password: #'your_password'
 
 nav:
-  - 主页:
+  - 🏡 主页:
     - index.md
-  - 随笔:
+  - 🔅 随笔:
     - Essay/241217.md
     - Essay/241228.md
-  - 读书笔记:
+  - 📖 读书笔记:
     - 读书计划: Reading/读书计划.md
     - 小米创业思考: Reading/Management/小米创业思考.md
     - 基业长青: Reading/Management/基业长青.md
-  - 学习:
+  - 📜 学习:
     - 学习计划: Learning/学习计划.md 
     - 日语学习: Learning/Japanese/01.md
-  # - 学习:
+  # - 公开课:
+  #   - 公开课计划: OpenCourse/公开课计划.md
+  - ⌛ 总结:
+    - 2024年度总结: Summary/2024年度总结.md
+  - 🦭 生活:
+    - 做菜记录: Life/做菜记录.md
+    # - 租房笔记: Life/租房笔记.md
   
   #- FirstPage_name: source_test/page1.md
   #- SecendPage_name: source_test/page2.md
